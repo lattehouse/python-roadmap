@@ -19,3 +19,7 @@ Python 官方网站的新手指南，关于新手如何入门 Python 的指南�
 
 GeeksforGeeks 提供的 Python 编程语言教程
 
+
+## [Python教程](https://docs.python.org/zh-cn/3.12/tutorial/index.html)
+
+
